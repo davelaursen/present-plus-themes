@@ -1,0 +1,56 @@
+body {
+    font-family: Varela, 'Open Sans', 'Helvetica Nueue', Helvetica, Arial, sans-serif;
+    background: url(bg.jpg);
+}
+a {
+    color: #557799;
+}
+
+div#topbar {
+    font-family: Raleway, 'Open Sans', 'Helvetica Nueue', Helvetica, Arial, sans-serif;
+    letter-spacing: 0;
+    background-color: #778899;
+    color: #fff;
+    height: 80px;
+    border-bottom: 1px solid #556677;
+}
+div#heading a {
+    color: #fff;
+    font-size: 1.6em;
+}
+
+div#page {
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: Raleway, 'Open Sans', 'Helvetica Nueue', Helvetica, Arial, sans-serif;
+    letter-spacing: 0;
+    color: #333;
+}
+h2 {
+    background: none;
+    color: #333;
+    text-decoration: underline;
+}
+h4 {
+    color: #555;
+    margin-bottom: 7px;
+}
+dl {
+    margin-top: 7px;
+}
+dd {
+    margin-left: 10px;
+}
+
+div#footer {
+    width: 900px;
+    margin: 50px auto 20px auto;
+    padding: 10px;
+    border-top: 1px #aaa solid;
+    font-size: 0.8em;
+}
+div#footer #links {
+    margin-top: 5px;
+}
